@@ -1,10 +1,12 @@
 # Android2PrivateLAN
 Android App to tunnel access from HTTPs C&amp;C server into Private LAN
 
+Published on DeepSec 2020 conference
+https://deepsec.net/docs/Slides/2020/Security_Model_Of_Endpoint_Devices_Martin_Kacer.pdf
 
 ## Disclaimer
 
-The application has been released only as prove of concept to demonstrate that the Android application with INTERNET permissions only could allow access into private networks. Responsible disclosure has been performed to Android Security program on 05/2020. Author does not undertake any responsibility for misapplication or illegal use of the application. Program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.
+The application has been released as prove of concept to demonstrate that the Android application with INTERNET permissions only could allow access into private networks. Responsible disclosure has been performed to Android Security program on 05/2020. Author does not undertake any responsibility for misapplication or illegal use of the application. Program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY.
 
 ## Communication flow
 
@@ -46,8 +48,6 @@ The application has been released only as prove of concept to demonstrate that t
 ## Attribution
 
 This code was created by Martin Kacer
-
-Copyright 2020 Mobileum
 
 Copyright 2020 H21 lab, All right reserved, https://www.h21lab.com
 
